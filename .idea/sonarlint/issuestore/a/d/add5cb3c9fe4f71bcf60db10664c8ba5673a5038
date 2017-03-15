@@ -1,0 +1,6 @@
+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(Šç…×øÿÿÿÿ8†ÿØã¬+
+Bsquid:S1481"&Remove this unused "i" local variable.(¦äû’8üë×ã¬+
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8‹”„ä¬+
+`squid:S1994"DThis loop's stop condition tests "" but the incrementer updates "i".(¦äû’8ú¢Øã¬+

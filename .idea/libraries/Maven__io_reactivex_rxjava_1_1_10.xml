@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.reactivex:rxjava:1.1.10">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/~/Develop/apache-maven-3.3.9/reo/io/reactivex/rxjava/1.1.10/rxjava-1.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/~/Develop/apache-maven-3.3.9/reo/io/reactivex/rxjava/1.1.10/rxjava-1.1.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/~/Develop/apache-maven-3.3.9/reo/io/reactivex/rxjava/1.1.10/rxjava-1.1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
